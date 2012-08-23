@@ -59,7 +59,7 @@
     name: 'MS.Katusha',
     description: 'MS.Katusha is an opensource dating web site project aimed at people.',
     project_url: 'http://mskatusha.apphb.com/',
-    download_url: 'https://github.com/mertsakarya/MS.Katusha.git',
+    download_url: 'https://github.com/mertsakarya/MS.Katusha/tarball/master',
     addons: ['sqlserver', 'sendgrid', 'ravenhq'],
     enableFileSystem: true,
     variables: {
