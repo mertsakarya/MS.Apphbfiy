@@ -6,7 +6,7 @@ To see it in action, visit [appharbify.com](http://appharbify.com) and sign in w
 
 ##Want to make your app available?
 It's simple, fork AppHarbify, edit [Apps.json](https://github.com/csainty/Apphbify/blob/master/Apphbify/Apps.json) and send me a pull request.
-
+ 
 Here is an example of what you need to add
 
 ```
