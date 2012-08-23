@@ -63,11 +63,11 @@
     addons: ['sqlserver', 'sendgrid', 'ravenhq'],
     enableFileSystem: true,
     variables: {
-      'MS.Katusha.Source': 'live',
-      'PaypalSandbox': 'false',
-      'Protocol': 'https',
-      'S3.Default.Bucket': 'MS.Katusha.EU',
-      'VirtualPath': '://mskatushaeu.apphb.com/'
+      'live': 'MS.Katusha.Source'
+      'false': 'PaypalSandbox',
+      'https': 'Protocol',
+      'MS.Katusha.EU' : 'S3.Default.Bucket',
+      '://mskatushaeu.apphb.com/' : 'VirtualPath'
     }
   }
 ]
