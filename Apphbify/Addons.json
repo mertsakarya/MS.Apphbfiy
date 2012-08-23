@@ -15,7 +15,7 @@
   { 'key': 'mongohq', 'plan': 'sandbox' },
   { 'key': 'mysql', 'plan': 'yocto' },
   { 'key': 'newrelic', 'plan': 'standard' },
-  { 'key': 'ravenhq', 'plan': '6652C2B8-7F7B-455D-9C76-3B31213C0C51' },
+  { 'key': 'ravenhq', 'plan': 'CC0B8787-1604-422A-83D7-F26553E23D2C' },
   { 'key': 'redistogo', 'plan': 'nano' },
   { 'key': 'searchifyindextank', 'plan': 'starter' },
   { 'key': 'sendgrid', 'plan': 'free' },
