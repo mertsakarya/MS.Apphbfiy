@@ -22,5 +22,6 @@
   { 'Key': 'spreedlycore', 'plan': 'free' },
   { 'key': 'sqlserver', 'plan': 'yocto' },
   { 'key': 'stillalive', 'plan': 'basic' },
-  { 'key': 'xeround', 'plan': 'starter' }
+  { 'key': 'xeround', 'plan': 'starter' },
+  { 'key': 'cloudbird', 'plan': 'Free2' }
 ]
