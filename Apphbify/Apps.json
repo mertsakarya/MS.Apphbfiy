@@ -63,11 +63,11 @@
     addons: ['sqlserver', 'sendgrid', 'ravenhq'],
     enableFileSystem: true,
     variables: {
-      'live': 'MS.Katusha.Source',
-      'false': 'PaypalSandbox',
-      'https': 'Protocol',
-      'MS.Katusha.EU' : 'S3.Default.Bucket',
-      '://mskatushaeu.apphb.com/' : 'VirtualPath'
+      'MS.Katusha.Source': 'MS Katusha Source (live/liveeu/local)',
+      'PaypalSandbox': 'Use Sandbox instead of PayPal (false / true)',
+      'Protocol': 'Protocol to support (https/http)',
+      'S3.Default.Bucket': 'S3 Bucket to use (MS.Katusha.EU / MS.Katusha / MS.Katusha.Test)',
+      'VirtualPath': 'Virtual path (://mskatushaeu.apphb.com/)'
     }
   }
 ]
