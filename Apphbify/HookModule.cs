@@ -13,7 +13,6 @@ namespace Apphbify
         public HookModule(IMailService mail)
         {
             _Mail = mail;
-
             Post["Sites/{slug}/NotifyByEmail"] = NotifyByEmail;
         }
 
